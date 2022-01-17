@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 public class TestEight {
     @Test
     public void testOne() {
-        Assert.assertEquals(0, 0);
+        Assert.assertEquals(9, 9);
     }
 }
 
